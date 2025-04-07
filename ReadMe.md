@@ -1,1 +1,1 @@
-This code allows analysis of s&p 500 price data from the last 10 years. 
+Uses Yahoo finance API to extract stock market (S&p 500) data and fits a linear trend line or moving average. 
